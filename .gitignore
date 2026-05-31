@@ -1,0 +1,17 @@
+.agents/
+.codex/
+.omx/
+frontend/node_modules/
+frontend/dist/
+frontend/coverage/
+frontend.zip
+**/bin/
+**/obj/
+**/TestResults/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+*.cache
+*.log
+*.tmp

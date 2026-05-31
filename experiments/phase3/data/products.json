@@ -1,0 +1,23 @@
+{
+  "nextId": 4,
+  "products": [
+    {
+      "id": 2,
+      "name": "BBB",
+      "description": "\u7b2c\u4e00\u500b\u5efa\u7acb\u7684\u5546\u54c1",
+      "price": 300,
+      "stock": 20,
+      "createdAt": "2026-05-31T16:17:43+00:00",
+      "updatedAt": "2026-05-31T16:20:51+00:00"
+    },
+    {
+      "id": 3,
+      "name": "CCC",
+      "description": null,
+      "price": 50,
+      "stock": 100,
+      "createdAt": "2026-05-31T16:22:23+00:00",
+      "updatedAt": "2026-05-31T16:22:23+00:00"
+    }
+  ]
+}
